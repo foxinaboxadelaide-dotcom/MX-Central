@@ -1,0 +1,12 @@
+{
+  "name": "mx-central",
+  "version-string": "1.0.0",
+  "description": "MX Central XIM Matrix configuration management bot",
+  "dependencies": [
+    "dpp",
+    "sqlite3",
+    "nlohmann-json",
+    "spdlog"
+  ],
+  "builtin-baseline": "a2b75031b909a2d6b051725c3909230c72d4bd4a"
+}
